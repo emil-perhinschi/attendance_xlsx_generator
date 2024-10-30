@@ -3,9 +3,9 @@
 generates an xlsx boilerplate file which might be useful to small Romanian companies
 
 python dependencies: 
-    - xlsxwriter
-    - calendar
-    - argparse
+  - xlsxwriter
+  - calendar
+  - argparse
 
 how to run:
 
