@@ -15,3 +15,7 @@ how to run:
 
 then move the generated file someplace else and fill in your data
 
+The output looks like this
+
+![image](https://github.com/user-attachments/assets/43364145-fc4e-4295-bbf6-d012f903017c)
+
